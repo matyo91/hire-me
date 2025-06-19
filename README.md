@@ -9,7 +9,7 @@
 - 📆 My availibilities : https://cal.com/jmfayard/virtual-cafe
 - 📝 I wrote 100+ articles in English at https://dev.to/jmfayard/
 - 📝 I wrote 100+ articles in French at https://substack.jmfayard.dev/
-- ❤️ My open-source projects : [**refreshVersions**](https://github.com/jmfayard/refreshVersions  - [kotlin-playground](https://github.com/jmfayard/kotlin-playground) - [github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - [kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter) - [kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
+- ❤️ My open-source projects : [**refreshVersions**](https://github.com/jmfayard/refreshVersions)  - [kotlin-playground](https://github.com/jmfayard/kotlin-playground) - [github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - [kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter) - [kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
 
 # Mon GPS carrière
 
