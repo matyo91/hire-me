@@ -1,39 +1,40 @@
-# GPS carrière
+# 🧭 GPS Carrière
 
-## Jean-Michel / Dev Backend Senior / Paris, Berlin, Full Remote
+## Mathieu / Backend Senior / Paris ou Full Remote / Automatisateur en chef
 
-- **Qui?** Jean-Michel Fayard (43 ans), 15 ans d'expérience
-- **Role:** Senior Backend Engineer / Team Lead / Agent de devs
-- **Stack:** Spécialiste Java/Kotlin mais ouvert à TypeScript / C# / Go / …
-- **Formation:** Diplôme ingénieur Ensimag + Erasmus Karlsruhe en Allemagne
-- **Disponibilité:** Immédiate
-- **Contrat:** CDI ou Freelance
-- **Rémunération:** 65k-72k€ ou 650€ TJM
-- **Location:** Paris ou Berlin ou full remote ou prêt à déménager
-- **Keywords**: Spring Boot, Ktor, Microservices, Kafka, Kubernetes, Terraform
+* **Qui ?** Mathieu Ledru (39 ans), 15+ ans d’expérience
+* **Rôle :** Senior Backend Engineer / Tech Lead / Architecte Automation / CTO freelance
+* **Stack :** PHP (Symfony, API Platform), automation (Uniflow, MCP), React, Node.js, LLM orchestration, DevOps léger
+* **Formation :** Autodidacte + certifications techniques, talker régulier dans la communauté PHP/Symfony
+* **Disponibilité :** Immédiate
+* **Contrat :** Freelance ou CDI si projet de sens
+* **Rémunération :** \~65k€ brut/an ou 500–650€ TJM
+* **Localisation :** Paris / Full Remote / Déplacement ponctuel ok
+* **Mots-clés :** Symfony AI, automation, orchestration, MCP, API-first, DevRel, SaaS, content-driven
 
-## **Ce qui me repousse chez une boite,**
+## ❌ Ce qui me fait fuir
 
-- Le CAC 40
-- Les environnements de travail sexistes, validistes, ...
-- Culture de travail basée sur la réunionite, les notifications permanentes, ....
-- Tout ce qui est pub / surveillance / ... style Facebook et Palantir
+* Les grosses boîtes CAC 40 opaques
+* Les environnements toxiques ou infantilisants
+* La réunionite, les deadlines absurdes, les process kafkaïens
+* La surveillance, le bullshit marketing, la perte de sens
 
-## **Ce qui va m'attirer chez une boite,**
+## ✅ Ce qui me donne envie de m’impliquer
 
-Must have :
-- Une culture qui valorise l'autonomnie
-- Une culture de l’écrit et de l’asynchrone
-- Une culture de la sécurité psychologique
+**Must have :**
 
-Nice to have :
-- Un environnement multi-culturel
-- Pouvoir faire monter équipes en compétences,
-- Mission de freelance, ou full remote, ou temps partiel
+* Une vraie **autonomie** dans la façon de bosser
+* Une **culture du contenu** (écrit, async, documenté)
+* Une équipe où règne la **sécurité psychologique**
 
-## **Comment me contacter ?**
+**Nice to have :**
 
-- **CV**: https://github.com/jmfayard/hire-me
-- **M’écrire:** jmfayard@gmail.com
-- **Prendre RDV**: [https://cal.com/jmfayard/virtual-cafe](https://cal.com/jmfayard/virtual-cafe)
+* Projet multiculturel ou international
+* Culture produit + capacité à monter les équipes en compétence
+* Environnement tech moderne (DevTools, IA, automation)
+* Ouverture aux formats flexibles : mission courte, temps partiel, async-first
 
+## 📬 Me contacter
+
+* **CV** : [https://hello.darkwood.com/hello/mathieu-ledru.pdf](https://hello.darkwood.com/hello/mathieu-ledru.pdf)
+* **Mail** : [mathieu@darkwood.com](mailto:mathieu@darkwood.com)

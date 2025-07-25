@@ -1,54 +1,49 @@
-<h1 align="center">Hi 👋, I'm Jean-Michel</h1>
+<h1 align="center">Salut 👋, moi c’est Mathieu</h1>
 
-## Hire me
+## Disponible pour une mission ou un poste
 
-- 🕵🏻‍♂️ I'm looking for a job as a senior backend developer / team lead
-- 📍 I live in Paris right now, I am skilled at remote work, I can move in another west european country
-- ✍🏻 [My CV in English](https://github.com/jmfayard/hire-me/blob/main/CV%20Jean%20Michel%20EN.pdf)
-- 📫 My email :  [jmfayard@gmail.com](https://jmfayard.dev/contact/)
-- 📆 My availibilities : https://cal.com/jmfayard/virtual-cafe
-- 📝 I wrote 100+ articles in English at https://dev.to/jmfayard/
-- 📝 I wrote 100+ articles in French at https://substack.jmfayard.dev/
-- ❤️ My open-source projects : [**refreshVersions**](https://github.com/jmfayard/refreshVersions)  - [kotlin-playground](https://github.com/jmfayard/kotlin-playground) - [github-actions-kotlin-dsl](https://github.com/krzema12/github-actions-kotlin-dsl) - [kotlin-cli-starter](https://github.com/jmfayard/kotlin-cli-starter) - [kotlin-libraries-playground](https://github.com/LouisCAD/kotlin-libraries-playground)
+* 🚀 Je cherche un **poste ou une mission freelance** en tant que **développeur backend senior**, **tech lead** ou **expert automation**
+* 📍 Basé à Paris, habitué au **full remote**, et ouvert à des opportunités en Europe de l’Ouest
+* 🧾 [Mon CV en français](https://hello.darkwood.com/hello/mathieu-ledru.pdf) *(ou autre lien à fournir)*
+* 📫 Me contacter : [mathieu@darkwood.com](mailto:mathieu@darkwood.com)
+* 🛠️ Stack & projets open source : [Uniflow](https://uniflow.io) - [Flow](https://flow.darkwood.com)
+* 📝 Articles techniques sur [Darkwood](https://blog.darkwood.com) et LinkedIn
 
-# Mon GPS carrière
+# Mon GPS de carrière
 
-## Jean-Michel / Dev Backend Senior / Paris, Berlin, Full Remote
+## Mathieu Ledru / Dév Senior / CTO freelance / Automation lover
 
-- **Qui?** Jean-Michel Fayard (43 ans), 15 ans d'expérience
-- **Role:** Senior Backend Engineer / Team Lead / Agent de devs
-- **Stack:** Spécialiste Java/Kotlin mais ouvert à TypeScript / C# / Go / …
-- **Formation:** Diplôme ingénieur Ensimag + Erasmus Karlsruhe en Allemagne
-- **Disponibilité:** Immédiate
-- **Contrat:** CDI ou Freelance
-- **Rémunération:** 65k-72k€ ou 650€ TJM
-- **Location:** Paris ou Berlin ou full remote ou prêt à déménager
-- **Keywords**: Spring Boot, Ktor, Microservices, Kafka, Kubernetes, Terraform
+* **Qui ?** Mathieu Ledru (39 ans), 15+ ans d’expérience
+* **Rôle :** Backend senior / Tech lead / CTO freelance / Automation architect
+* **Stack :** PHP (Symfony, API Platform), React, Node.js, LLM orchestration, automation SaaS
+* **Formation :** Autodidacte + formations continues (bootcamps, conférences, etc.)
+* **Disponibilité :** Immédiate
+* **Contrat :** Freelance, CDI si projet de sens
+* **Tarif :** 500–650€ TJM ou \~65k€/an
+* **Mobilité :** Paris / Remote / déplacements ponctuels en Europe
+* **Mots-clés :** Symfony, Flow, Uniflow, GPT-4o, automation, MCP, Kubernetes, DevOps, GitHub Actions
 
-## **Ce qui me repousse chez une boite,**
+## Ce que j'évite :
 
-- Le CAC 40
-- Les environnements de travail sexistes, validistes, ...
-- Culture de travail basée sur la réunionite, les notifications permanentes, ....
-- Tout ce qui est pub / surveillance / ... style Facebook et Palantir
+* Les bullshit jobs de reporting
+* Le management toxique ou les cultures de l’ego
+* Les projets pilotés par le marketing uniquement
+* Les grosses boîtes CAC 40 désincarnées
 
-## **Ce qui va m'attirer chez une boite,**
+## Ce que je recherche :
 
-Must have :
-- Une culture qui valorise l'autonomnie
-- Une culture de l’écrit et de l’asynchrone
-- Une culture de la sécurité psychologique
+**Must have :**
 
-Nice to have :
-- Un environnement multi-culturel
-- Pouvoir faire monter équipes en compétences,
-- Mission de freelance, ou full remote, ou temps partiel
+* De l’autonomie et une vraie culture produit
+* De l’impact : je veux voir ce que je construis servir à quelque chose
+* Un bon niveau technique et des gens qui apprennent
 
-## **Comment me contacter ?**
+**Nice to have :**
 
-- [Mon CV en français](https://github.com/jmfayard/hire-me/blob/main/CV%20Jean%20Michel%20FR.pdf)
-- **M’écrire:** jmfayard@gmail.com
-- **Prendre RDV**: [https://cal.com/jmfayard/virtual-cafe](https://cal.com/jmfayard/virtual-cafe)
+* Environnement multiculturel
+* Stack moderne orientée DevOps / AI / API
+* Liberté de proposer, d’itérer et d’automatiser
 
+## Me contacter
 
-<p align="left"><img src="https://skillicons.dev/icons?i=kotlin,ktor,graphql,heroku,idea,spring,postgres,git,github,bash,docker,ts,android&perline=16" alt="Tech Stack" /> </p>
+* **Email :** [mathieu@darkwood.com](mailto:mathieu@darkwood.com)

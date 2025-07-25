@@ -1,40 +1,49 @@
-Secteur,Exemples,Mon avis
-HealthTech,"Alan, Doctolib",✅
-MedTech,Dispositifs médicaux,🔁
-BioTech,"Thérapies, diagnostics",🔁
-Mental Health / Wellness,"MindDay, Moa",✅
-FemTech,"Clue, Natural Cycles",✅
-ClimateTech,"Greenly, Sweep",✅
-CleanTech / Énergie,"Sweep, Beem Energy",✅
-AgriTech,"Vertical farming, Farmbot",✅
-FoodTech,"Ynsect, Omie & Cie",✅
-Circular Economy,BackMarket,✅
-FinTech,"Qonto, Lydia, Kard",🔁
-InsurTech,"Alan, Luko",✅
-LegalTech / RegTech,"Doctrine, Hyperlex",🔁
-PropTech,"Matera, Habiteo",🔁
-GovTech,"FranceConnect, OpenFisca",🔁
-Productivity Tools,"Notion, Slite, Offishall",✅
-HRTech,"Payfit, Maki",✅
-EdTech,"360Learning, Edflex",✅
-SalesTech / RevOps,"Qobra, Chili Piper",❌
-NoCode / DevTools,"Retool, WeWeb",✅
-DevTools / B2D,"Strapi, Hugging Face",✅
-Marketplaces,"BackMarket, Ankorstore",🔁
-E-commerce enablement,"Mirakl, DataHawk",❌
-D2C Brands,"Asphalte, Respire",❌
-Consumer Apps,"Lydia, Kard",✅
-Mobility / TravelTech,"BlaBlaCar, FlixBus",✅
-MediaTech,"Meero, Jellysmack",✅
-Audio / Video / Streaming,"Deezer, Brut",✅
-Creator Economy,"Kinetix, Patreon",✅
-Gaming / GameTech,"TapNation, Sorare",❌
-AI Platforms,"Mistral AI, Hugging Face",❌
-Computer Vision / NLP,"PhotoRoom, Gladia",❌
-Robotics / Edge,Exotec,❌
-Quantum Tech,Pasqal,❌
-Blockchain / Web3,"Sorare, Ledger",❌
-Cybersecurity,"Tanium, Dashlane",🔁
-Cloud Infrastructure,"Scaleway, Artifakt",✅
-API / BaaS,"Swan, Treezor",✅
-DevOps / Observability,"Datadog, Artifakt",✅
+Voici ton tableau adapté à ton profil, en gardant ton style direct, tech + business + automation friendly, avec un code couleur cohérent (`✅ = j’aime`, `🔁 = à voir`, `❌ = non merci`) :
+
+---
+
+## 🧭 Secteurs qui m'attirent (ou pas)
+
+| Secteur                       | Exemples                  | Mon avis |
+| ----------------------------- | ------------------------- | -------- |
+| **HealthTech**                | Alan, Doctolib            | ❌       |
+| **MedTech**                   | Dispositifs médicaux      | 🔁       |
+| **BioTech**                   | Thérapies, diagnostics    | 🔁       |
+| **Mental Health / Wellness**  | MindDay, Moa              | ❌       |
+| **FemTech**                   | Clue, Natural Cycles      | ❌       |
+| **ClimateTech**               | Greenly, Sweep            | ✅       |
+| **CleanTech / Énergie**       | Sweep, Beem Energy        | ✅       |
+| **AgriTech**                  | Vertical farming, Farmbot | ✅       |
+| **FoodTech**                  | Ynsect, Omie & Cie        | ❌       |
+| **Circular Economy**          | BackMarket                | ✅       |
+| **FinTech**                   | Qonto, Lydia, Kard        | 🔁       |
+| **InsurTech**                 | Alan, Luko                | ✅       |
+| **LegalTech / RegTech**       | Doctrine, Hyperlex        | 🔁       |
+| **PropTech**                  | Matera, Habiteo           | 🔁       |
+| **GovTech**                   | FranceConnect, OpenFisca  | ❌       |
+| **Productivity Tools**        | Notion, Slite, Offishall  | ✅       |
+| **HRTech**                    | Payfit, Maki              | ❌       |
+| **EdTech**                    | 360Learning, Edflex       | ❌       |
+| **SalesTech / RevOps**        | Qobra, Chili Piper        | ❌       |
+| **NoCode / Automation**       | Uniflow, Retool, WeWeb    | ✅       |
+| **DevTools / B2D**            | Strapi, Hugging Face      | ✅       |
+| **Marketplaces**              | BackMarket, Ankorstore    | 🔁       |
+| **E-commerce enablement**     | Mirakl, DataHawk          | ✅       |
+| **D2C Brands**                | Asphalte, Respire         | ✅       |
+| **Consumer Apps**             | Lydia, Kard               | ✅       |
+| **Mobility / TravelTech**     | BlaBlaCar, FlixBus        | ✅       |
+| **MediaTech**                 | Meero, Jellysmack         | ✅       |
+| **Audio / Video / Streaming** | Deezer, Brut              | ✅       |
+| **Creator Economy**           | Kinetix, Patreon          | ✅       |
+| **Gaming / GameTech**         | TapNation, Sorare         | ✅       |
+| **AI Platforms**              | Mistral AI, Hugging Face  | ✅       |
+| **Computer Vision / NLP**     | PhotoRoom, Gladia         | ✅       |
+| **Robotics / Edge**           | Exotec                    | ✅       |
+| **Quantum Tech**              | Pasqal                    | ✅       |
+| **Blockchain / Web3**         | Sorare, Ledger            | ✅       |
+| **Cybersecurity**             | Tanium, Dashlane          | ✅       |
+| **Cloud Infrastructure**      | Scaleway, Artifakt        | ✅       |
+| **API / BaaS**                | Swan, Treezor             | ✅       |
+| **DevOps / Observability**    | Datadog, Artifakt         | ✅       |
+
+Souhaite-tu que je t’aide à en faire une version visuelle ou interactive à intégrer sur un site (ex : tableau HTML ou Notion embeddable) ?

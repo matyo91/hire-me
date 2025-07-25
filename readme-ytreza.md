@@ -1,54 +1,44 @@
-statut : je passerai par du portage salarial le moment venu
-* RC Pro : voir ci-dessus
-* Mob.sh : connais pas encore
-* calendrier partagé : https://calendar.google.com/calendar/ical/jmfayard%40gmail.com/public/basic.ics
+## 📋 Statut et contact
 
-- GitHub : https://github.com/jmfayard
-- Blog francophone : https://substack.jmfayard.dev/
-- Blog anglophone : https://dev.to/jmfayard
-- CV etc : https://github.com/jmfayard/hire-me
-* LinkedIn : https://www.linkedin.com/in/laurentdecamps/
-- Prendre un café virtuel : https://cal.com/jmfayard/virtual-cafe
+* **Statut** : je passerai par **du portage salarial** quand ce sera nécessaire (ou mission freelance directe si c’est plus simple)
+* **RC Pro** : couverte via la structure partenaire
+* **GitHub** : [https://github.com/matyo91](https://github.com/matyo91)
+* **Blog** : [https://blog.darkwood.com](https://blog.darkwood.com)
+* **LinkedIn** : [linkedin.com/in/mathieu-ledru](https://www.linkedin.com/in/mathieu-ledru)
+* **CV** : [CV PDF ici](https://hello.darkwood.com/hello/mathieu-ledru.pdf)
 
-* Compétences :
-  * Expert : Backend Kotlin/Java, Recrutement, Vente et marketing pour devs
-  * Pro : Blogging, formation 
-  * Compétent : CI, CD, TDD, Pyramide de tests, Archi hexagonale, programmation fonctionnelle
-  * Veut apprendre: progresser sur le cloud notamment AWS, microservices, spring boot
+## 🧠 Compétences clés
 
-* IDE : IntelliJ
+* **Expert** : Symfony, PHP, API Platform, automation, backend architecture, content-driven development
+* **Pro** : DevOps léger (CI/CD, Docker, AppEngine, CleverCloud), écriture technique, contenu pour le web
+* **À l’aise avec** : MCP, orchestration IA, composants Symfony AI, automation no-code/low-code, React Admin
+* **En cours d’apprentissage** : AI agent orchestration, Symfony UX avancé, vente produit SaaS
 
-## Comment travailler avec moi ?
+🛠️ IDE actuel : **VSCode** (mais j’ai souffert avec NetBeans dans une autre vie)
 
-Afin de simplifier le travail avec moi, voici mon mode d'emploi.
+## 🤝 Comment bosser avec moi ?
 
-Je suis autiste-tdah et notamment
-- j'ai un fort code éthique interne qui me pousse à dire et faire des choses vraies et qui ont du sens, même quand ça va à l'encontre des codes sociaux
-- j'ai besoin d'avoir mon WHY? avant de me lancer dans une tache. Je pose beaucoup de questions car il faut prendre le temps d'aller vite.
-- j'ai un besoin permanent d'autonomie, j'ai besoin de flexibilité sur comment je m'organise sur la méthode et le timing pour accomplir cette tache
-- je suis distrait en permanence parce que curieux de tout, donc si j'oublie un truc important que vous m'avez dit, ca n'est rien à voir avec vous
+J’aime aller vite, mais intelligemment. Je pose beaucoup de questions, je teste, j’automatise, et je documente au passage.
 
-Par conséquent : 
-- je suis pas fan du small talk en mode "salut ça va ? ca va, et toi ca va va" où on pose une fausse question sans écouter la réponse
-- essayer de me reléguer dans une posture d'éxécutant va créer de la frustration pour nous deux
-- si j'oublie un truc que vous m'avez dit, cela n'a rien à voir avec vous
-- je ne suis pas parfait, mais je suis très perfectible ; une fois que j'ai confiance d'avoir été à coté de la plaque 
-- j'apprécie beaucoup à la fois de travailler en asynchrone pour l'autonomnie, et aussi de prendre un café virtuel pour se soutenir et se remonter le moral
-- je pratique l'honnêteté radicale
-- quand quelqu'un parle, je ne juge pas ses maladresses mais cherche à comprendre ses intentions
-- j'ai l'habitude de faire l'effort de comprendre des gens qui sont différents de moi, j'ai une grande capacité d'écoute et d'empathie, surtout pour un mec
-- je suis allergique aux gens qui jugent sans prendre le temps d'écouter
+* Je préfère **l’asynchrone** aux réunions vides.
+* Je suis **autonome**, mais j’aime bien un ping Slack de temps en temps pour garder le lien.
+* Je peux vite m’emballer… mais aussi livrer un produit qui tourne en production en 24h si j’ai le bon contexte.
+* Je pratique **l’honnêteté radicale**, même quand ce n’est pas à mon avantage.
+* Je suis **très perfectible** : je cherche toujours à m'améliorer, pas à prouver que j’ai raison.
 
-Sujets pour briser la glace : 
-* n'importe quel sujet où tu es intéressants car intéressé
-* [prendre un café virtuel](https://cal.com/jmfayard/virtual-cafe) 
-* la musique, la danse, la culture latino, l'écriture, expatriation, écriture, berlin
-* le recrutement, la vente, le marketing, la sexualité des kangourous
-* n'importe quel sujet où tu es intéressants car intéressé
- 
-Matériel : 
-MacBook Pro 13", M1, 2020
-iMac 27" vieux
+⚠️ Donc si je zappe un détail, **rappelle-le-moi sans stress**. Mon cerveau carbure à l’enthousiasme, pas aux reproches.
 
-Je suis pas très bien organisé pour travailler chez moi, j'aimerais avoir  un bureau assis-debout et un écran supplémentaire
-J'aime beaucoup travailler depuis les cafés à Paris
+## 🧊 Pour briser la glace
+
+* Tout ce qui touche à la **création** : no-code, IA, automation, musique, jeux, branding
+* **Darkwaar** : un jeu que je code pour moi-même en 3D isométrique sur Godot
+* **Uniflow** : ma plateforme d’orchestration de tâches (open source)
+* **DJ Matyo91** : ma face B, pour la musique happy hardcore ou l’Eurodance dans un garage
+* **Sujet random** : le business de l’IA générative, les migrations productives à Las Vegas, ou même la sexualité des kangourous (si t’as de bonnes sources 🦘)
+
+## 🧰 Matériel
+
+* 💻 MacBook Pro M1, 13", 2020
+* 🖥 iMac 27" (vintage collector)
+* ☕️ J’adore bosser depuis les **cafés parisiens** (si le wifi tient)
+* 🔧 J’aimerais un bureau assis-debout et un 2ᵉ écran digne de ce nom

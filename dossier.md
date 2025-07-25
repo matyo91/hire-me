@@ -1,120 +1,99 @@
+# 🧭 GPS Carrière
 
-## En bref
-Développeur backend senior sur la JVM
-15 ans d'expérience
-Culture craft, training, technical writing
+## Mathieu / Backend Senior / Symfony Lover / Automatisateur en chef
 
-## Outils et méthodes
+* **Qui ?** Mathieu Ledru (39 ans), développeur backend fullstack avec 15+ ans d’expérience sur Paris
+* **Rôle :** Ingénieur Symfony Senior, Tech Lead, CTO Freelance
+* **Stack principale :** PHP 7→8.2, Symfony 4→6, React.js, TypeScript, API Platform, Docker, Elasticsearch, GitHub Actions
+* **Formation :** Diplôme d'ingénieur Polytech’Paris Sud (2008)
+* **Disponibilité :** Immédiate
+* **Contrat :** Freelance ou CDI à impact
+* **Rémunération :** 500–650€/TJM selon mission
+* **Localisation :** Paris / Full Remote
+* **Spécialités :** automation, backend robuste, clean archi, dev produit, orchestration AI (Flow / Uniflow)
 
-Langages: Java 23 , Kotlin , TypeScript , Shell
-Culture de travail: culture du partage, de l'écrit et de l'asynchrone, code reviews bienveillantes 
-Méthodologie: XP , CI , CD  , TDD , Refactoring , Pair programming , Kaizen , Lean , Kanban
-Architecture logicielle: archi hexagonale, ports et adapters, monolithe, modulithe, microservices, testing pyramid
-Outils backend: REST, OpenApi, GraphQL, Spring Framework, Spring Boot, Open Telemetry, Message Broker type Kafka
-DevOps: Continuous Integration, Continuous Delivery, Infrastructure as Code, Observabilité, Monitoring
-Base de données: Relationnelles (notamment Postgres), NoSQL (surtout Mongo), orientées colonnes
-Logiciels: CLI Linux, MacOS, IntelliJ
+## ✨ Expériences clés
 
-## Formation
-Ingénieur ENSIMAG 2006
-Ingénieur de l'Université de Karlsruhe en Allemagne, 2006
-## Langues
-Français : Lange maternelle
-Anglais : C2
-Espagnol: C2
-Allemand : C2
-Italien : A2
-Japonais : A2
-Espéranto: B1
+### 🔹 **Tech Lead Symfony – Twenga Solutions (CDI)**
 
-## Divers
-Date de naissance: 29.12.1981
-Nationalité: Française
+📍 Paris · 🗓 Avril 2024 – Mai 2025
+Refonte d’un comparateur multi-pays (France, UK, DE, ES, IT, etc.)
 
+* Architecture scalable (approche DDD) pour booster acquisition SEO
+* Intégration Google Cloud, Firestore, BigQuery, AppEngine
+* Stack : Symfony, Laravel, React, Node.js, PHP 8.1, TypeScript
 
-## Dev backend senior et manager de devs
-CodeBusters et Crédit Agricole
-July 2023-Mai 2024
+✅ Résultat : + performances, + conversions, + sécurité
 
-**Manager de devs**
-Au sein de l'ESN Code Busters, j'avais une responsabilité de manager de devs 
-- accompagnement dans la carrière
-- préparation aux entretiens
-- rdv client
-- point de liaison avec les recruteurs et les commerdciaux
+### 🔹 **Ingénieur Backend Freelance – Gamestream**
 
-**Projet crédit agricole - CACIB**
-Ma principale mission a été à la banque d'investissement du crédit agricole
-Je travaillais au sein d'une vaste chaine de traitement, normalisation et enrichissement des transactions financières
-Mon équipe jouait plus particulièrement un role de hub central entre les back office et les front office autour d'une backbone en temps réel avec Kafka
-Étant donné la sensibilité des informations et la complexité métier, la bonne communication avec les équipes et les métiers adjacentes jouait un role majeur.
+📍 Paris · 🗓 Mai 2023 – Avril 2024
+Plateforme de cloud gaming à haute disponibilité
 
-**Environnement technique**
-Spring, Spring Boot, Java, Kotlin, Kafka, Artifactory, Maven, Gitlab, ArgoCD, Postgres, Mongo, GraphQL, REST, AWS, Apache Iceberg
+* Migration Symfony 5 + DDD dans un contexte critique
+* Galera Cluster, HAProxy, PostgreSQL, CI/CD GitLab
+* Gestion incidents, infra stable et résiliente
 
+✅ Résultat : uptime renforcé, bugs divisés par 2
 
-### Tignum
-Dev backend senior & team lead
-Mai 2020 - Février 2023
-Travail à distance depuis Paris
+### 🔹 **Symfony Freelance – Claranet / SKEMA**
 
-**Projet**
-Le coeur de métier de Tignum est le coaching d'équipes dirigeantes, notamment en Suisse et aux États-Unis. 
-J'étais le bras droit du CTO dans un projet de digitalisation du savoir théorique et pratique accumulé par Tignum, dans l'idée d'avoir un service moins cher adressé au plus grand monde.
+📍 Lille · 🗓 Janvier 2023 – Avril 2023
+Portail de gestion concours étudiants
 
-**Réalisation**
-- Audit de l'existant
-- Réduction drastique de la complexité technique de l'environnement hérité
-- Front PWA publié sur les stores Android et Apple
-- Backend modulithe avec Kotlin et GraphQL
+* Parcours candidats (inscription, oraux, scoring)
+* Symfony 6 + API Platform, ElasticSearch, RabbitMQ
+* DDD, TDD/BDD, Redis
 
-**Environnement technique**
+✅ Résultat : backoffice stable lors des pics d’inscription
 
-TypeScript Kotlin Ktor GraphQL Java Backend Development Lean startup, Team Leadership, Gradle, CI/CD Software Architecture, Heroku, Agile Software Development, Docker
+### 🔹 **Dev Backend – Mediatech (Freelance)**
 
+📍 Remote · 🗓 Juin 2022 – Décembre 2022
+Streaming vidéo B2B (Crédit Agricole, Renault…)
 
-### Mautinoa
-Développeur senior backend et Android 
-Mars 2018 - Octobre 2019
-À distance, depuis Berlin
+* Refonte Symfony 5 → 6, sécurisation flux Wowza
+* Stack : GCP, PostgreSQL, Docker, ElasticSearch, Angular
 
-**Projet**
-Mautinoa est une petite startup organisée autour du full remote, et qui fait de la R&D technique sur des sujets pointus. 
-Le CEO Emerson avait fait partie des équipes qui ont eu à gérer la crise d'Ebola, et notamment de rétablir d'urgence un système de paiement en pleine crise sanitaire pour que les soignants puissent être payés. 
-Le projet consistait à répliquer et industrialiser la solution au Timor Oriental, pays sorti récemment d'un génocide et où l'infrastructure bancaire et internet est également déficiante. 
+✅ Résultat : montée en robustesse & adaptation aux clients grands comptes
 
-**Réalisation**
-- smartcard Java faisant office de porte monnaie électronique
-- système de paiement hors connection entre une appli Android faisant office de terminal de paiement, et deux smartcard Java
-- synchronisation des transactions effectuées dès que le smartphone ou une des deux smartcards a accès à internet
-- sur le backend, ledger de transaction propriétaire à Mautinoa basé sur les memes principes que la blockchain
+### 🔹 **Co-fondateur – Darkwood (Entrepreneur)**
 
-**Environnement technique**
-- JavaCard SDK, Kotlin, Go, Android, Cryptographie, simulateur de smartcard, technologies P2P
+📍 Remote · 🗓 Mars 2020 – Mai 2022
+Création d’outils d’automatisation (Uniflow / Flow)
 
-### Smart Mobile Factory
-Développeur Android puis Backend
-Octobre 2014 - Décembre 2017
-Berlin, Germany
+* Flow : orchestration PHP asynchrone
+* Uniflow : framework no-code open-source TypeScript
+* Stack : Symfony, React Admin, Node.js, Jest, GitHub Actions
 
-**Projets**
-Smart Mobile Factory est une agence mobile full stack avec comme clients les PME allemandes. SMF a une cinquantaine de produits et j'ai travaillé sur nombre d'entre eux. 
+✅ Résultat : outils utilisés en prod + gain temps réel + contenus créés
 
-**Réalisation**
-- Réalisation d'applis Android
-- Réalisation de monolithe PHP pour faire office de backend
-- Deux projets avec le Spring Framework
-- Intégration avec de nombreux services externes comme Google, Apple, Twilio, ...
-- CI/CD
-- Qualité logicielle
+### 🔹 **Ingénieur Backend – Meero (CDI)**
 
-**Environnement technique**
-Spring Boot, Docker, Jenkins, TypeScript, PHP, Kotlin
-Java, Web Development, Backend Development, Android Development
-Mobile Applications Development
+📍 Paris · 🗓 Août 2019 – Février 2020
+API pour l'app mobile photographe (MyMeero)
 
-## Altran
-Consultant
-January 2007 - January 2012
+* Dev API Platform REST, archi hexagonale, TDD
+* Stack : Symfony 4/5, PHP 7.4, Docker, MySQL
 
-Missions à mi-chemin entre le dev et le test, chez Bouygues Telecom et SFR notamment
+✅ Résultat : plateforme scalable prête pour B2B mobile
+
+### 🔹 **Dev Fullstack – BigYouth (CDI)**
+
+📍 Paris · 🗓 Octobre 2012 – Juillet 2019
+Projets pour NRJ, Ricard, Société Générale, Azzaro…
+
+* Symfony 2 à 4, React, Algolia, Elasticsearch
+* CMS, e-commerce, sites multilingues
+* Intégration continue & dev agile
+
+✅ Résultat : +15 projets web maintenables à fort trafic
+
+### 🔹 **Dév PHP/JS – Les Argonautes (CDI)**
+
+📍 Paris · 🗓 Septembre 2008 – Septembre 2012
+CRM/CMS maison, backoffice, bornes tactiles, apps mobiles
+
+* Dév PHP/JS multi-device
+* Déploiement mobile hybride (Sencha, PhoneGap)
+* Clients : Véolia, Peugeot, ISS…
